@@ -14,7 +14,7 @@
 
 <p align="center">
   <img
-    src="./public/preview.png"
+    src="./result/preview.png"
     alt="Photovoltaic Power Prediction Using Random Forest"
     width="100%"
   />
