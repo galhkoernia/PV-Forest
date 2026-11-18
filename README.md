@@ -10,6 +10,16 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
+## Preview
+
+<p align="center">
+  <img
+    src="./public/preview.png"
+    alt="Photovoltaic Power Prediction Using Random Forest"
+    width="100%"
+  />
+</p>
+
 ## Informasi Proyek
 
 | Keterangan | Detail |
